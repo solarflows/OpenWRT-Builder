@@ -16,9 +16,9 @@ on:
     branches:
       - master
     paths:
-      - 'Stablestart.config'
+      - 'Stable.config'
   schedule:
-    - cron: 30 1 */3 * *
+    - cron: 30 1 * * 0
   watch:
     types: started
 
