@@ -17,8 +17,8 @@ on:
       - master
     paths:
       - 'MR2600start.config'
-  schedule:
-    - cron: 30 1 * * 1
+  #schedule:
+    #- cron: 30 1 * * 1
   #watch:
     #types: started
 
