@@ -16,7 +16,7 @@ on:
     branches:
       - master
     paths:
-      - 'GHLstart.config'
+      - 'GHL.config'
   #schedule:
    # - cron: 30 1 * * 1
   #watch:

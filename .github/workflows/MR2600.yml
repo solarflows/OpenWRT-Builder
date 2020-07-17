@@ -16,7 +16,7 @@ on:
     branches:
       - master
     paths:
-      - 'MR2600start.config'
+      - 'MR2600.config'
   #schedule:
     #- cron: 30 1 * * 1
   #watch:

@@ -70,7 +70,7 @@ jobs:
         chmod +x $DIY_DEFAULT_SH
         chmod +x $DIY_P2_SH
         cd openwrt
-        # $GITHUB_WORKSPACE/$DIY_DEFAULT_SH
+        $GITHUB_WORKSPACE/$DIY_DEFAULT_SH
 
     - name: 加载自定义配置
       run: |
