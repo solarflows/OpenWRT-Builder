@@ -29,7 +29,7 @@ env:
   QBMF: QBMF
   DIY_Stable_SH: diy-part3.sh
   DIY_P2_SH: diy-part2.sh
-  SSH_ACTIONS: false
+  SSH_ACTIONS: true
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
